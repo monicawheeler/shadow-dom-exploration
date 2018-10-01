@@ -1,4 +1,4 @@
-#Day 1 - Exploration and planning
+# Day 1 - Exploration and planning
 
 *TODO's Today* 
 [X] - Plan and create rep
