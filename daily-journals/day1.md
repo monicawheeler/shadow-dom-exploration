@@ -2,10 +2,12 @@
 
 *TODO's Today* 
 [X] - Plan and create rep
+
 [ ] - Figure out a basic definition of the Shadow DOM
+
 [ ] - Document
 
-##Start by searching Google! As of today: 
+## Start by searching Google! As of today: 
 - The first result is an article written by Dimitri Glazkov in 2011, titled, "What the Heck is Shadow DOM?"
   - https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/
   - This article is also quoted as the main definition answer in Google for Shadow DOM
@@ -13,12 +15,12 @@
   - https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM
 
 
-###Thoughts so far: 
+### Thoughts so far: 
 The top two results are both referring to Shadow DOM as "Shadow DOM" and not "the Shadow DOM". There are also some differences in capitalization. *Questions added below to explore further.*
 
 In the Google section for "People also ask", there is a question listed that says, "What is virtual DOM?" Is the shadow DOM and virtual DOM different? *Let's explore that to make this clear, question*
 
-##Top 5 Search results on DuckDuckGo:
+## Top 5 Search results on DuckDuckGo:
 - Lists same MDN article above, first
   - https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM
 - An article on W3
