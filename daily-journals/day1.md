@@ -1,6 +1,7 @@
 # Day 1 - Exploration and planning
 
 *TODO's Today* 
+
 [X] - Plan and create rep
 
 [ ] - Figure out a basic definition of the Shadow DOM
@@ -34,10 +35,14 @@ In the Google section for "People also ask", there is a question listed that say
 
 
 
-Questions gathered:
+*Questions gathered:*
+
 [X] - Is there a proper way to refer to it? "Shadow DOM" verses "the Shadow DOM"
+
 [X] - Is "shadow" capitalized? 
+
 [X] - Is the shadow DOM and virtual DOM different? Clarify.
+
 
 
 ### Basic understanding after very simple research and reading, so far:
