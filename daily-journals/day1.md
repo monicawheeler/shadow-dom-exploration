@@ -6,8 +6,6 @@
 
 [ ] - Figure out a basic definition of the Shadow DOM
 
-[ ] - Document
-
 ## Start by searching Google! As of today: 
 - The first result is an article written by Dimitri Glazkov in 2011, titled, "What the Heck is Shadow DOM?"
   - https://glazkov.com/2011/01/14/what-the-heck-is-shadow-dom/

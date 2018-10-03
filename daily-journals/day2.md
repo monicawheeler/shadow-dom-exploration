@@ -2,9 +2,7 @@
 
 *TODO's Today* 
 
-[ ] - Figure out a basic definition of the Shadow DOM (carry over from day 1)
-
-[ ] - Document
+[X] - Figure out a basic definition of the Shadow DOM (carry over from day 1)
 
 Notes:
 
@@ -19,6 +17,7 @@ Notes:
 
 
 Questions from reading:
+
 - [ ] How does the hidden DOM trees get added?
 
 - [ ] How does the hidden DOM trees get removed? 
