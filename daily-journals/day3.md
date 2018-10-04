@@ -1,11 +1,9 @@
-# Day 2 - Exploration and planning
+# Day 3 - Definitions and reviewing those definitions
 
 *TODO's Today* 
 
-[ ] - Review and reread MDN article to make sure the notes from yesterday make sense
+[X] - Review and reread MDN article to make sure the notes from yesterday make sense
   - https://developer.mozilla.org/en-US/docs/Web/Web_Components/Using_shadow_DOM
-
-[ ] - 
 
 Notes:
 
