@@ -2,9 +2,7 @@
 
 TODO's 
 
-- [ ] Create a custom banner web component
-
-- [ ] Review the challenges
+- [X] Start exploring creating a custom banner web component
 
 ## Notes:
 
