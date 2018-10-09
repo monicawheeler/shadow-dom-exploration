@@ -16,3 +16,9 @@ contentArea = setAttribute('class', 'class-name');
 // Fixed it, needs to chain not assign
 contentArea.setAttribute('class', 'class-name');
 ```
+
+### Some thoughts
+
+- How do we make the shadow DOM elements/content accessible? Are they by default like regular DOM elements? 
+
+- This seems like a load of work (albeit, not complicated) to put together, why bother? 
