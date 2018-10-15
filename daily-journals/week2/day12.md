@@ -1,4 +1,4 @@
-# DAY 12
+# Day 12
 
 ```js
 <div id="test"></div>
